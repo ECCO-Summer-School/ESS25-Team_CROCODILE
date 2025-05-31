@@ -1,6 +1,4 @@
-# CROCODILE
-
-This is an example of how teams can structure their project repositories and format their project README.md file.
+# ECCOv4r4-Based Analysis of Cooling Trends in the Upper Tropical Eastern Pacific (CROCODILE)
 
 When creating a project repository from this template choose "Public" so other participants can follow progress. Add a "topic" to your repository details (click on the gear icon next to the "About" section on the repository page) to help others find your work (e.g. `ecco-hackweek-2024`).
 
@@ -40,11 +38,11 @@ List all participants on the project. Here is a good space to share your persona
 
 | Name | Personal goals | Can help with | Role |
 | ------------- | ------------- | ------------- | ------------- |
-| Feng Jiang | I want to learn specific python libraries for working with these data  | I can help with understanding our dataset, programming in R  | Project Lead |
-| Rosalind F. | Practice leading a software project | machine learning and python (scipy, scikit-learn) | Project Lead |
-| Alan T. | learning about your dataset | GitHub, Jupyter, cloud computing | Project Helper |
+| Feng Jiang | I want to understand the upper ocean heat budget in ECCO and by using ECCO  | Mechanisms, Experiments and Coding  | Project Lead |
+| Suman Shekhar | I am interested in learning about adjoint sensitivity in ocean models | machine learning and python (scipy, scikit-learn) | Team Member |
+| Antonio Jesus Robles Fernandez | I was so interested in knowing the role of salinity in the cooling of the tropical pacific | Mechanisms, Experiments and Coding  | Salty Team Member |
 | Rachel C. | learn to use github, resolve merge conflicts | I am familiar with our dataset | Team Member  |
-| Zhangzhe Zhao | I want to learn how to do the budget closure and I am really interested in its application on the Indian Ocean warming | I can help calculate the heat budget. I used the ECCO before, so I can help address the ECCO output. | Team member |
+|  | ... | ... | ... |
 | ... | ... | ... | ... |
 
 ### The problem
@@ -63,9 +61,12 @@ How would you or others traditionally try to address this problem? Provide any r
 
 ### Proposed methods/tools
 
-What new approaches would you like to implement for addressing your specific question(s) or application(s)?
-
-Will your project use machine learning methods? If so, we invite you to create a [model card](model-card.md)!
+We propose to abnalyze the problem calculating the heat budget and running the adjoint with the tropical pacific SST as objective function.
+Then, we analyzed the trends observed in the region in orden to propose sensivity experiments, these experiments was:
+-150mm/month over the warm pool
+increased zonal wind trend over the NINO3 region
+half eddy diffusivity globally
+control ECCOV4R4 run
 
 ### Additional resources or background reading
 
