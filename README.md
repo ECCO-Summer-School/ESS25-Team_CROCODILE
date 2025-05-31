@@ -42,7 +42,7 @@ List all participants on the project. Here is a good space to share your persona
 | Suman Shekhar | I am interested in learning about adjoint sensitivity in ocean models | machine learning and python (scipy, scikit-learn) | Team Member |
 | Antonio Jesus Robles Fernandez | I was so interested in knowing the role of salinity in the cooling of the tropical pacific | Mechanisms, Experiments and Coding  | Salty Team Member |
 | Zhangzhe Zhao | I want to learn how to do the budget closure and I am really interested in its application on the Indian Ocean warming | I can help calculate the heat budget. I used the ECCO before, so I can help address the ECCO output. | Team member |
-|  | ... | ... | ... |
+| Andrea Mosso | I was interested in learning about a part of the world ocean I normally don't look at!  | I can share my knowledge about diapycnal mixing, their parameterisation, running models, and analysing unstructured data! | Team member |
 | ... | ... | ... | ... |
 
 ### The problem
